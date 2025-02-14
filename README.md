@@ -2,17 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slyeet03&label=Profile%20views&color=0e75b6&style=flat" alt="slyeet03" /> </p>
 
-🔭 I’m currently working on [spoify](https://github.com/slyeet03/spoify) <br></br>
-🌱 I’m currently learning and interested in ML and Embedded
-
-
-
 ###
 
 
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="35" alt="rust logo"  />
   <img width="16" />
@@ -48,7 +43,7 @@
 
 
 ###
-
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="www.linkedin.com/in/shobhit-dutta" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
