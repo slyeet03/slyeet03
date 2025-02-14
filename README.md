@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on spoify :)<br><br>🌱 I’m currently learning and interested in ML and Embedded</p>
+<p align="left">🔭 I’m currently working on [spoify](https://github.com/slyeet03/spoify) <br><br>🌱 I’m currently learning and interested in ML and Embedded</p>
 
 ###
 
-<p align="left">Language and Tools:</p>
+<h3 align="left">Language and Tools:</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
