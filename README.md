@@ -5,7 +5,7 @@
 🔭 I’m currently working on [spoify](https://github.com/slyeet03/spoify) <br></br>
 🌱 I’m currently learning and interested in ML and Embedded
 
----
+
 
 ###
 
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
 
----
+
 
 ###
 
@@ -58,7 +58,7 @@
   </a>
 </div>
 
----
+
 
 ###
 
