@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! I'm Shobhit</h2>
+<h1 align="center">Hi 👋! I'm Shobhit</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=slyeet03&label=Profile%20views&color=0e75b6&style=flat" alt="slyeet03" /> </p>
 ###
 
-<p align="left">🔭 I’m currently working on [spoify](https://github.com/slyeet03/spoify) <br><br>🌱 I’m currently learning and interested in ML and Embedded</p>
+🔭 I’m currently working on [spoify](https://github.com/slyeet03/spoify)
+🌱 I’m currently learning and interested in ML and Embedded
+
+---
 
 ###
 
@@ -38,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
 
+---
+
 ###
 
 <h3 align="left">Connect with me:</h3>
@@ -52,6 +58,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
   </a>
 </div>
+
+---
 
 ###
 
