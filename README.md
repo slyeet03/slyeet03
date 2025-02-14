@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋! I'm Shobhit</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slyeet03&label=Profile%20views&color=0e75b6&style=flat" alt="slyeet03" /> </p>
-###
 
-🔭 I’m currently working on [spoify](https://github.com/slyeet03/spoify)
+🔭 I’m currently working on [spoify](https://github.com/slyeet03/spoify) <br></br>
 🌱 I’m currently learning and interested in ML and Embedded
 
 ---
 
 ###
 
-<h3 align="left">Language and Tools:</h3>
+
 
 ###
 
@@ -46,7 +45,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+
 
 ###
 
